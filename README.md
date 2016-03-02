@@ -29,6 +29,8 @@ The following datasets are created:
 
 Expression data is from the [Brain RNA-Seq database](http://web.stanford.edu/group/barres_lab/brain_rnaseq.html) [Zhang et al (2014) [_J Neurosci_](https://doi.org/10.1523/JNEUROSCI.1860-14.2014 "An RNA-Sequencing Transcriptome and Splicing Database of Glia, Neurons, and Vascular Cells of the Cerebral Cortex")].
 
+Differential expression for Dominant Active-catenin mice was retrieved from a [processed version](https://github.com/dhimmel/opcendo/issues/1) of [GSE19403](http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE19403 "Gene Expression Omnibus GSE19403") [Fancy et al (2011) [_Nat Neurosci_](https://doi.org/10.1038/nn.2855 "Axin2 as regulatory and therapeutic target in newborn brain injury and remyelination")].
+
 Protein-protein interactions are extracted from the [STRING database](http://string-db.org/) version 10 [Szklarczyk et al (2015) [_Nucl Acids Res_](https://doi.org/10.1093/nar/gku1003 "STRING v10: protein–protein interaction networks, integrated over the tree of life")].
 
 Gene Ontology annotations are retrieved from [user-friendly GO Annotations](http://git.dhimmel.com/gene-ontology/) [Himmelstein et al (2015) [_Zenodo_](https://doi.org/10.5281/zenodo.21711 "gene-ontology: Initial zenodo release")].
@@ -45,4 +47,4 @@ Launch Jupyter (`jupyter notebook` in terminal or using the Anaconda GUI) and na
 
 ## License
 
-All original content in this repository is released under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/ "Creative Commons · Public Domain Dedication"). STRING data is licensed as [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/). The Gene Ontology data is licensed as [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/). Brain RNA-Seq data is included with permission from its creator Steven Sloan.
+All original content in this repository is released under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/ "Creative Commons · Public Domain Dedication"). STRING data is licensed as [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/). The Gene Ontology data is licensed as [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/). Brain RNA-Seq data is included with permission from its creator Steven Sloan. Data from Fancy et al 2011 is included with permission.
