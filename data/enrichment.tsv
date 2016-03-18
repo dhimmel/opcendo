@@ -1,4 +1,4 @@
-Gene symbol	Description	Astrocytes	Neuron	Oligodendrocyte Precursor Cell	Newly Formed Oligodendrocyte	Myelinating Oligodendrocytes	Microglia	Endothelial Cells	cell-cell adhesion	cell surface	opc_fold_change	endothelial_fold_change	DA_Cat_fold_change
+Gene symbol	Description	Astrocytes	Neuron	Oligodendrocyte Precursor Cell	Newly Formed Oligodendrocyte	Myelinating Oligodendrocytes	Microglia	Endothelial Cells	cell-cell adhesion	cell surface	opc_L2FC	endothelial_L2FC	DA_Cat_L2FC
 0610005C13Rik		0.15096	0.1	0.1	0.1	0.1	0.1	0.1	0	0	0	-0.1176	
 0610007C21Rik		44.891	34.185	71.221	57.986	54.006	89.145	63.561	0	0	0.39919	0.11792	
 0610007L01Rik		11.015	12.029	13.286	14.058	6.1395	18.462	13.521	0	0	1.1137	0.11351	
