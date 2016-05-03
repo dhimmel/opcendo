@@ -1,172 +1,127 @@
 <?xml version='1.0' encoding='utf-8'?>
 <graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
   <key attr.name="weight" attr.type="long" for="edge" id="d3" />
-  <key attr.name="endo_l2fc" attr.type="double" for="node" id="d2" />
-  <key attr.name="dac_l2fc" attr.type="double" for="node" id="d1" />
-  <key attr.name="opc_l2fc" attr.type="double" for="node" id="d0" />
-  <graph edgedefault="undirected">
-    <node id="Tek">
-      <data key="d0">1.1988</data>
-      <data key="d1">nan</data>
-      <data key="d2">8.6851</data>
-    </node>
-    <node id="Cxcl12">
-      <data key="d0">1.5265</data>
-      <data key="d1">nan</data>
-      <data key="d2">1.4406</data>
-    </node>
-    <node id="Itgb1">
-      <data key="d0">1.075</data>
-      <data key="d1">nan</data>
-      <data key="d2">2.3607</data>
-    </node>
+  <key attr.name="dac_l2fc" attr.type="double" for="node" id="d2" />
+  <key attr.name="opc_l2fc" attr.type="double" for="node" id="d1" />
+  <key attr.name="endo_l2fc" attr.type="double" for="node" id="d0" />
+  <graph edgedefault="directed">
     <node id="Ptprc">
-      <data key="d0">3.9704</data>
-      <data key="d1">nan</data>
-      <data key="d2">-2.8994</data>
-    </node>
-    <node id="Il6">
-      <data key="d0">0.0</data>
-      <data key="d1">nan</data>
-      <data key="d2">2.4959</data>
-    </node>
-    <node id="Dpp4">
-      <data key="d0">0.37096</data>
-      <data key="d1">nan</data>
-      <data key="d2">6.2643</data>
-    </node>
-    <node id="Itgam">
-      <data key="d0">2.6857</data>
-      <data key="d1">nan</data>
-      <data key="d2">-8.7568</data>
-    </node>
-    <node id="Il15">
-      <data key="d0">2.0042</data>
-      <data key="d1">nan</data>
-      <data key="d2">3.0428</data>
-    </node>
-    <node id="B2m">
-      <data key="d0">2.7299</data>
-      <data key="d1">nan</data>
-      <data key="d2">1.6164</data>
-    </node>
-    <node id="Vcam1">
-      <data key="d0">4.8533</data>
-      <data key="d1">nan</data>
-      <data key="d2">-2.634</data>
-    </node>
-    <node id="Selp">
-      <data key="d0">0.0</data>
-      <data key="d1">nan</data>
-      <data key="d2">3.4014</data>
-    </node>
-    <node id="Itga4">
-      <data key="d0">1.2682</data>
-      <data key="d1">nan</data>
-      <data key="d2">6.8898</data>
-    </node>
-    <node id="Anxa1">
-      <data key="d0">2.6875</data>
-      <data key="d1">nan</data>
-      <data key="d2">5.4665</data>
-    </node>
-    <node id="Nt5e">
-      <data key="d0">2.3859</data>
-      <data key="d1">nan</data>
-      <data key="d2">-3.147</data>
-    </node>
-    <node id="Itgav">
-      <data key="d0">3.7384</data>
-      <data key="d1">nan</data>
-      <data key="d2">-2.1728</data>
+      <data key="d0">-2.8994</data>
+      <data key="d1">3.9704</data>
+      <data key="d2">nan</data>
     </node>
     <node id="Cxcr4">
-      <data key="d0">1.1729</data>
-      <data key="d1">1.1388</data>
-      <data key="d2">2.7818</data>
+      <data key="d0">2.7818</data>
+      <data key="d1">1.1729</data>
+      <data key="d2">1.1388</data>
     </node>
-    <node id="Alcam">
-      <data key="d0">5.5683</data>
-      <data key="d1">nan</data>
-      <data key="d2">-3.5519</data>
-    </node>
-    <node id="Cd1d1">
-      <data key="d0">2.0542</data>
-      <data key="d1">nan</data>
-      <data key="d2">1.421</data>
-    </node>
-    <node id="Itga5">
-      <data key="d0">2.8</data>
-      <data key="d1">nan</data>
-      <data key="d2">1.9638</data>
-    </node>
-    <node id="Itga6">
-      <data key="d0">3.6236</data>
-      <data key="d1">nan</data>
-      <data key="d2">0.95214</data>
-    </node>
-    <node id="Itga7">
-      <data key="d0">1.5418</data>
-      <data key="d1">nan</data>
-      <data key="d2">-2.0723</data>
+    <node id="B2m">
+      <data key="d0">1.6164</data>
+      <data key="d1">2.7299</data>
+      <data key="d2">nan</data>
     </node>
     <node id="Kit">
-      <data key="d0">4.101</data>
-      <data key="d1">nan</data>
-      <data key="d2">0.7569899999999999</data>
+      <data key="d0">0.7569899999999999</data>
+      <data key="d1">4.101</data>
+      <data key="d2">nan</data>
+    </node>
+    <node id="Itga7">
+      <data key="d0">-2.0723</data>
+      <data key="d1">1.5418</data>
+      <data key="d2">nan</data>
+    </node>
+    <node id="Il15">
+      <data key="d0">3.0428</data>
+      <data key="d1">2.0042</data>
+      <data key="d2">nan</data>
+    </node>
+    <node id="Tek">
+      <data key="d0">8.6851</data>
+      <data key="d1">1.1988</data>
+      <data key="d2">nan</data>
+    </node>
+    <node id="Itgav">
+      <data key="d0">-2.1728</data>
+      <data key="d1">3.7384</data>
+      <data key="d2">nan</data>
+    </node>
+    <node id="Cxcl12">
+      <data key="d0">1.4406</data>
+      <data key="d1">1.5265</data>
+      <data key="d2">nan</data>
+    </node>
+    <node id="Selp">
+      <data key="d0">3.4014</data>
+      <data key="d1">0.0</data>
+      <data key="d2">nan</data>
+    </node>
+    <node id="Dpp4">
+      <data key="d0">6.2643</data>
+      <data key="d1">0.37096</data>
+      <data key="d2">nan</data>
+    </node>
+    <node id="Itga4">
+      <data key="d0">6.8898</data>
+      <data key="d1">1.2682</data>
+      <data key="d2">nan</data>
+    </node>
+    <node id="Itgb1">
+      <data key="d0">2.3607</data>
+      <data key="d1">1.075</data>
+      <data key="d2">nan</data>
+    </node>
+    <node id="Cd1d1">
+      <data key="d0">1.421</data>
+      <data key="d1">2.0542</data>
+      <data key="d2">nan</data>
+    </node>
+    <node id="Itga5">
+      <data key="d0">1.9638</data>
+      <data key="d1">2.8</data>
+      <data key="d2">nan</data>
+    </node>
+    <node id="Il6">
+      <data key="d0">2.4959</data>
+      <data key="d1">0.0</data>
+      <data key="d2">nan</data>
+    </node>
+    <node id="Itgam">
+      <data key="d0">-8.7568</data>
+      <data key="d1">2.6857</data>
+      <data key="d2">nan</data>
+    </node>
+    <node id="Anxa1">
+      <data key="d0">5.4665</data>
+      <data key="d1">2.6875</data>
+      <data key="d2">nan</data>
+    </node>
+    <node id="Vcam1">
+      <data key="d0">-2.634</data>
+      <data key="d1">4.8533</data>
+      <data key="d2">nan</data>
+    </node>
+    <node id="Alcam">
+      <data key="d0">-3.5519</data>
+      <data key="d1">5.5683</data>
+      <data key="d2">nan</data>
     </node>
     <node id="Il7r">
-      <data key="d0">3.0818</data>
-      <data key="d1">nan</data>
-      <data key="d2">-3.38</data>
+      <data key="d0">-3.38</data>
+      <data key="d1">3.0818</data>
+      <data key="d2">nan</data>
     </node>
-    <edge source="Tek" target="Ptprc">
+    <node id="Itga6">
+      <data key="d0">0.95214</data>
+      <data key="d1">3.6236</data>
+      <data key="d2">nan</data>
+    </node>
+    <node id="Nt5e">
+      <data key="d0">-3.147</data>
+      <data key="d1">2.3859</data>
+      <data key="d2">nan</data>
+    </node>
+    <edge source="Ptprc" target="Tek">
       <data key="d3">748</data>
-    </edge>
-    <edge source="Cxcl12" target="Il6">
-      <data key="d3">753</data>
-    </edge>
-    <edge source="Cxcl12" target="Cxcr4">
-      <data key="d3">999</data>
-    </edge>
-    <edge source="Cxcl12" target="Anxa1">
-      <data key="d3">901</data>
-    </edge>
-    <edge source="Cxcl12" target="Itga4">
-      <data key="d3">718</data>
-    </edge>
-    <edge source="Itgb1" target="Nt5e">
-      <data key="d3">878</data>
-    </edge>
-    <edge source="Itgb1" target="Itga5">
-      <data key="d3">999</data>
-    </edge>
-    <edge source="Itgb1" target="Itga6">
-      <data key="d3">998</data>
-    </edge>
-    <edge source="Itgb1" target="Itga7">
-      <data key="d3">996</data>
-    </edge>
-    <edge source="Itgb1" target="Ptprc">
-      <data key="d3">942</data>
-    </edge>
-    <edge source="Itgb1" target="Itgam">
-      <data key="d3">919</data>
-    </edge>
-    <edge source="Itgb1" target="Vcam1">
-      <data key="d3">978</data>
-    </edge>
-    <edge source="Itgb1" target="Itgav">
-      <data key="d3">998</data>
-    </edge>
-    <edge source="Itgb1" target="Kit">
-      <data key="d3">722</data>
-    </edge>
-    <edge source="Itgb1" target="Alcam">
-      <data key="d3">858</data>
-    </edge>
-    <edge source="Ptprc" target="Itga4">
-      <data key="d3">774</data>
     </edge>
     <edge source="Ptprc" target="Il6">
       <data key="d3">748</data>
@@ -177,38 +132,80 @@
     <edge source="Ptprc" target="B2m">
       <data key="d3">782</data>
     </edge>
-    <edge source="Il6" target="Il15">
+    <edge source="Ptprc" target="Itga4">
+      <data key="d3">774</data>
+    </edge>
+    <edge source="Ptprc" target="Itgb1">
+      <data key="d3">942</data>
+    </edge>
+    <edge source="Kit" target="Itga4">
+      <data key="d3">754</data>
+    </edge>
+    <edge source="Kit" target="Itgb1">
+      <data key="d3">722</data>
+    </edge>
+    <edge source="Itga7" target="Itga5">
+      <data key="d3">807</data>
+    </edge>
+    <edge source="Itga7" target="Itgb1">
+      <data key="d3">996</data>
+    </edge>
+    <edge source="Il15" target="Il6">
       <data key="d3">780</data>
     </edge>
-    <edge source="Il6" target="Anxa1">
-      <data key="d3">705</data>
+    <edge source="Itgav" target="Itgb1">
+      <data key="d3">998</data>
     </edge>
-    <edge source="Il6" target="Il7r">
-      <data key="d3">829</data>
+    <edge source="Cxcl12" target="Anxa1">
+      <data key="d3">901</data>
+    </edge>
+    <edge source="Cxcl12" target="Il6">
+      <data key="d3">753</data>
+    </edge>
+    <edge source="Cxcl12" target="Cxcr4">
+      <data key="d3">999</data>
+    </edge>
+    <edge source="Cxcl12" target="Itga4">
+      <data key="d3">718</data>
+    </edge>
+    <edge source="Cd1d1" target="B2m">
+      <data key="d3">993</data>
     </edge>
     <edge source="Itgam" target="Selp">
       <data key="d3">931</data>
     </edge>
-    <edge source="Il15" target="Il7r">
-      <data key="d3">813</data>
+    <edge source="Itgam" target="Itgb1">
+      <data key="d3">919</data>
     </edge>
-    <edge source="B2m" target="Cd1d1">
-      <data key="d3">993</data>
+    <edge source="Anxa1" target="Il6">
+      <data key="d3">705</data>
     </edge>
-    <edge source="B2m" target="Vcam1">
+    <edge source="Anxa1" target="Cxcr4">
+      <data key="d3">903</data>
+    </edge>
+    <edge source="Vcam1" target="B2m">
       <data key="d3">904</data>
     </edge>
     <edge source="Vcam1" target="Itga4">
       <data key="d3">975</data>
     </edge>
-    <edge source="Itga4" target="Kit">
-      <data key="d3">754</data>
+    <edge source="Vcam1" target="Itgb1">
+      <data key="d3">978</data>
     </edge>
-    <edge source="Anxa1" target="Cxcr4">
-      <data key="d3">903</data>
+    <edge source="Alcam" target="Itgb1">
+      <data key="d3">858</data>
     </edge>
-    <edge source="Itga5" target="Itga7">
-      <data key="d3">807</data>
+    <edge source="Il7r" target="Il15">
+      <data key="d3">813</data>
+    </edge>
+    <edge source="Il7r" target="Il6">
+      <data key="d3">829</data>
+    </edge>
+    <edge source="Itga6" target="Itgb1">
+      <data key="d3">998</data>
+    </edge>
+    <edge source="Nt5e" target="Itgb1">
+      <data key="d3">878</data>
     </edge>
   </graph>
 </graphml>
